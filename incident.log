@@ -1,0 +1,2 @@
+[2026-10-09T15:38:03.728807Z] [CRITICAL] Service Down: Local Web App - Reason: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+[2026-10-09T15:41:17.856239Z] [CRITICAL] Service Down: Local Web App - Reason: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
